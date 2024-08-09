@@ -1,0 +1,512 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B166138-7422-4955-8CA7-FAD60C27F7BC}|..\\Data\\Data.csproj|c:\\users\\matej\\downloads\\c#klk\\c#klk\\ordermanagementapp\\data\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B166138-7422-4955-8CA7-FAD60C27F7BC}|..\\Data\\Data.csproj|c:\\users\\matej\\downloads\\c#klk\\c#klk\\ordermanagementapp\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B166138-7422-4955-8CA7-FAD60C27F7BC}|..\\Data\\Data.csproj|c:\\users\\matej\\downloads\\c#klk\\c#klk\\ordermanagementapp\\data\\custordersorders_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B166138-7422-4955-8CA7-FAD60C27F7BC}|..\\Data\\Data.csproj|c:\\users\\matej\\downloads\\c#klk\\c#klk\\ordermanagementapp\\data\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B166138-7422-4955-8CA7-FAD60C27F7BC}|..\\Data\\Data.csproj|c:\\users\\matej\\downloads\\c#klk\\c#klk\\ordermanagementapp\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B166138-7422-4955-8CA7-FAD60C27F7BC}|..\\Data\\Data.csproj|c:\\users\\matej\\downloads\\c#klk\\c#klk\\ordermanagementapp\\data\\employeesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\frmorderadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|solutionrelative:frmorderadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|c:\\users\\matej\\downloads\\c#klk\\c#klk\\ordermanagementapp\\entityproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|c:\\users\\matej\\downloads\\c#klk\\c#klk\\ordermanagementapp\\entityproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\frmorderupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|solutionrelative:frmorderupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\frmorderupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|solutionrelative:frmorderupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\AppData\\Local\\Temp\\Rar$DIa18168.38150\\frmNovaPorudzbina.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\frmorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|solutionrelative:frmorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\frmorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|solutionrelative:frmorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\frmorderadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{823D78AC-7234-49CE-9F74-1693FDE626F2}|EntityProject.csproj|solutionrelative:frmorderadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\OrderData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\OrderBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\ProductDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\OrderDetailsBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\ProductData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\Mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\OrderDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\ProductBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\EmployeesData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\Model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\CustomerDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\EmployeeDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\CustomerBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\CustomerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\EmployeeBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\OrderDetailsDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\Model1.Context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\Model1.Designer.cs",
+              "RelativeToolTip": "..\\Data\\Model1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:42:10.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Employee.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\Employee.cs",
+              "RelativeToolTip": "..\\Data\\Employee.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:42:02.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustOrdersOrders_Result.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\CustOrdersOrders_Result.cs",
+              "RelativeDocumentMoniker": "..\\Data\\CustOrdersOrders_Result.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\CustOrdersOrders_Result.cs",
+              "RelativeToolTip": "..\\Data\\CustOrdersOrders_Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:42:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\Model1.tt",
+              "RelativeDocumentMoniker": "..\\Data\\Model1.tt",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\Model1.tt",
+              "RelativeToolTip": "..\\Data\\Model1.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-09T21:41:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\Model1.edmx",
+              "RelativeDocumentMoniker": "..\\Data\\Model1.edmx",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "..\\Data\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-09T21:41:51.616Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesData.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\EmployeesData.cs",
+              "RelativeDocumentMoniker": "..\\Data\\EmployeesData.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\Data\\EmployeesData.cs",
+              "RelativeToolTip": "..\\Data\\EmployeesData.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:41:44.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmOrderUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmOrderUpdate.cs",
+              "RelativeDocumentMoniker": "FrmOrderUpdate.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\EntityProject\\FrmOrderUpdate.cs [Design]",
+              "RelativeToolTip": "..\\..\\EntityProject\\FrmOrderUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:53.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderData.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\OrderData.cs",
+              "RelativeDocumentMoniker": "..\\..\\Data\\OrderData.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\OrderData.cs",
+              "RelativeToolTip": "..\\..\\Data\\OrderData.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:53.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderBL.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\OrderBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\Business\\OrderBL.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\OrderBL.cs",
+              "RelativeToolTip": "..\\..\\Business\\OrderBL.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAGAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:53.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmOrderUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmOrderUpdate.cs",
+              "RelativeDocumentMoniker": "FrmOrderUpdate.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmOrderUpdate.cs",
+              "RelativeToolTip": "FrmOrderUpdate.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:53.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Domain\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\ProductDTO.cs",
+              "RelativeToolTip": "..\\..\\Domain\\ProductDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmNovaPorudzbina.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\AppData\\Local\\Temp\\Rar$DIa18168.38150\\frmNovaPorudzbina.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa18168.38150\\frmNovaPorudzbina.Designer.cs",
+              "ToolTip": "C:\\Users\\matej\\AppData\\Local\\Temp\\Rar$DIa18168.38150\\frmNovaPorudzbina.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa18168.38150\\frmNovaPorudzbina.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:54:32.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmOrderAdd.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmOrderAdd.cs",
+              "RelativeDocumentMoniker": "FrmOrderAdd.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmOrderAdd.cs",
+              "RelativeToolTip": "FrmOrderAdd.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAkwFUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmOrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmOrderDetails.cs",
+              "RelativeDocumentMoniker": "FrmOrderDetails.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmOrderDetails.cs",
+              "RelativeToolTip": "FrmOrderDetails.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-09T12:11:53.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmMain.cs",
+              "RelativeToolTip": "FrmMain.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAArwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:37:06.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmMain.cs [Design]",
+              "RelativeToolTip": "FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:36:39.088Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetailsBL.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\OrderDetailsBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\Business\\OrderDetailsBL.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\OrderDetailsBL.cs",
+              "RelativeToolTip": "..\\..\\Business\\OrderDetailsBL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmOrderDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmOrderDetails.cs",
+              "RelativeDocumentMoniker": "FrmOrderDetails.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\C#Klk\\EntityProject\\FrmOrderDetails.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\OneDrive\\Desktop\\C#Klk\\EntityProject\\FrmOrderDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-09T12:11:54.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmOrderAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmOrderAdd.cs",
+              "RelativeDocumentMoniker": "FrmOrderAdd.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\OrderManagementApp\\EntityProject\\FrmOrderAdd.cs [Design]",
+              "RelativeToolTip": "FrmOrderAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductData.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\ProductData.cs",
+              "RelativeDocumentMoniker": "..\\..\\Data\\ProductData.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\ProductData.cs",
+              "RelativeToolTip": "..\\..\\Data\\ProductData.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwCIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\Mapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\Data\\Mapper.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\Mapper.cs",
+              "RelativeToolTip": "..\\..\\Data\\Mapper.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAYwM0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Domain\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\OrderDTO.cs",
+              "RelativeToolTip": "..\\..\\Domain\\OrderDTO.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductBL.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\ProductBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\Business\\ProductBL.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\ProductBL.cs",
+              "RelativeToolTip": "..\\..\\Business\\ProductBL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeesData.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\EmployeesData.cs",
+              "RelativeDocumentMoniker": "..\\..\\Data\\EmployeesData.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\EmployeesData.cs",
+              "RelativeToolTip": "..\\..\\Data\\EmployeesData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Model1.edmx",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\Model1.edmx",
+              "RelativeDocumentMoniker": "..\\..\\Data\\Model1.edmx",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\Model1.edmx",
+              "RelativeToolTip": "..\\..\\Data\\Model1.edmx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-09T12:11:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Domain\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\CustomerDTO.cs",
+              "RelativeToolTip": "..\\..\\Domain\\CustomerDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Domain\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\EmployeeDTO.cs",
+              "RelativeToolTip": "..\\..\\Domain\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerBL.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\CustomerBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\Business\\CustomerBL.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\CustomerBL.cs",
+              "RelativeToolTip": "..\\..\\Business\\CustomerBL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerData.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\CustomerData.cs",
+              "RelativeDocumentMoniker": "..\\..\\Data\\CustomerData.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\CustomerData.cs",
+              "RelativeToolTip": "..\\..\\Data\\CustomerData.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\Business\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Business\\EmployeeBL.cs",
+              "RelativeToolTip": "..\\..\\Business\\EmployeeBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\OrderDetailsDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Domain\\OrderDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Domain\\OrderDetailsDTO.cs",
+              "RelativeToolTip": "..\\..\\Domain\\OrderDetailsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:11:54.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "..\\..\\Data\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\matej\\Downloads\\C#Klk\\C#Klk\\Data\\Model1.Context.tt",
+              "RelativeToolTip": "..\\..\\Data\\Model1.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-09T12:11:54.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

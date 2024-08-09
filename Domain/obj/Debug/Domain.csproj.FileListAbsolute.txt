@@ -1,0 +1,12 @@
+C:\Users\matej\OneDrive\Desktop\C#Klk\Domain\bin\Debug\Domain.dll
+C:\Users\matej\OneDrive\Desktop\C#Klk\Domain\bin\Debug\Domain.pdb
+C:\Users\matej\OneDrive\Desktop\C#Klk\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\matej\OneDrive\Desktop\C#Klk\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\C#Klk\Domain\obj\Debug\Domain.dll
+C:\Users\matej\OneDrive\Desktop\C#Klk\Domain\obj\Debug\Domain.pdb
+C:\Users\matej\Downloads\C#Klk\C#Klk\Domain\bin\Debug\Domain.dll
+C:\Users\matej\Downloads\C#Klk\C#Klk\Domain\bin\Debug\Domain.pdb
+C:\Users\matej\Downloads\C#Klk\C#Klk\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\matej\Downloads\C#Klk\C#Klk\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\matej\Downloads\C#Klk\C#Klk\Domain\obj\Debug\Domain.dll
+C:\Users\matej\Downloads\C#Klk\C#Klk\Domain\obj\Debug\Domain.pdb
